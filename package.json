@@ -1,0 +1,23 @@
+{
+  "name": "arch_bchat",
+  "version": "1.0.0",
+  "description": "arch chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test 1"
+  },
+  "keywords": [
+    "chatbot",
+    "test"
+  ],
+  "author": "arch95",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
